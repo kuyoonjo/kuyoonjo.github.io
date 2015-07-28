@@ -23,5 +23,10 @@
     </nav>
 
   </div>
-
 </header>
+<div class="wrapper">
+	<br /><i class="fa fa-tags"></i>: 
+	{% for tag in site.data.tags %}
+	    <a href="/tag/{{ tag.slug }}/">{{ tag.name }}({{site.tags[tag.slug]|size}})</a>{% if forloop.last == false %}, {% endif %}
+	{% endfor %}
+</div>

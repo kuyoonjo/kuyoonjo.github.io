@@ -1,0 +1,11 @@
+- slug: django
+  name: Django
+  
+- slug: ui-bootstrap
+  name: UI Bootstrap
+  
+- slug: angularjs
+  name: AngularJS
+  
+- slug: javascript
+  name: Javascript
