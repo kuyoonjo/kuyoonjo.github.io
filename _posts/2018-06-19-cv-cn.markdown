@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "个人简历"
+date:   2018-06-18 20:00:00
+tags: [curricula_vitae]
+---
+
+<!--more-->
+
+# 职业意向
+#### 1. 外包项目合作
+
+期望项目类型：
+- Restful服务后台开发
+- 移动APP开发 (iOS, Android)
+- 微信公众号网站开发
+- 微信小程序/小游戏 开发
+- SDK/模块/插件 开发 (Nodejs with Typescript, Angular2+, Cordova, Swift, Objective-C, Android, Python, Perl, C/C++)
+- 自适应网站开发 (Angular2+)
+- 跨平台桌面应用开发 (electron)
+
+瀑布开发模式3331结算
+- 首付30%，合同签订后一周内
+- 开发完成测试版本上线付30%
+- 测试一个月后正式版本上线付30%
+- 正式版本上线6个月后付10%
+
+敏捷开发模式sprint结算
+- sprint周期为1个星期
+- 每个sprint开始时付30%
+- 每个sprint结束时付70%
+
+#### 2. 高待遇固定工作
+
+期望工作地点：	温州 > 杭州 > 浙江周边
+
+期望工作时间： 8hrs x 5
+
+期望过年假期： 15天
+
+期望从事行业：	计算机软件
+
+期望月薪资（税后）：	30k+
+
+# 教育背景
+#### 1. 爱尔兰卡洛理工学院
+- 学习时间：	2011年9月 至 2015年9月
+- 专业名称：	软件开发
+- 学历/学位：	本科
+- 全日制统招：	否
+
+#### 2. 洛阳解放军外国语学院
+- 学习时间：	2007年9月 至 2011年7月
+- 专业名称：	日语
+- 学历/学位：	本科
+- 全日制统招：	是
+
+# 工作经验
+#### 自由工作者
+工作时间：	2015年10月 至今
+
+工作内容：	计算机软件编程
+
+
+#### 2016-4 至今
+主要与中国新疆两家互联网公司合作相关项目。
+- 新疆众佳时空网络科技有限公司
+- 上海雨岑信息科技有限公司（新疆分公司）
+
+并于2016-7至2018-4在新疆众佳时空网络科技有限公司挂职。
+
+工作内容：移动APP，微信公众号，微信小程序，服务端框架搭建，Cordova插件，第三方SDK包装等。
+
+涉及技术：
+- 后台：
+Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
+
+- 前端：
+Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
+
+#### 2015-10 至 2016-4
+主要在 [freelancer.com](https://www.freelancer.com) 投标项目。 相关的Reviews: [https://www.freelancer.com/u/kuyoonjo#/reviews](https://www.freelancer.com/u/kuyoonjo#/reviews)
+
+涉及技术：C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PHP, Perl, Python, Java, Applescript, Website Design, PSD to HTML, node.js, Mobile App Development, Android, MySQL, Database Programming, etc.
+
+#### 新疆众佳时空网络科技有限公司
+工作时间：	2016年7月 至 2018年4月
+
+公司规模：	50人至100人
+
+所属行业：	通信/电信（设备/运营/增值）
+
+职位名称：	技术总监
+
+职责描述：
+项目框架搭建。任务分配。业务对接。编写代码。	
+
+涉及技术：
+- 后台：
+Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
+
+- 前端：
+Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
+

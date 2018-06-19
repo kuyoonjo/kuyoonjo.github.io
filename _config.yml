@@ -1,11 +1,11 @@
 # Site settings
-title: Yu Chen's Blog
+title: Yu Chen's Homepage
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.chen.news" # the base hostname & protocol for your site
+url: "http://yu.chen.news" # the base hostname & protocol for your site
 twitter_url: https://twitter.com/kuyoonjo
 github_url:  https://github.com/kuyoonjo
 linkedin_url: http://ie.linkedin.com/in/yc0070
 facebook_url: https://www.facebook.com/yu.chen.1988.03.09
-
+excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
