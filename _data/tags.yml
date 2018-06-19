@@ -1,11 +1,8 @@
-- slug: django
-  name: Django
+- slug: portfolios
+  name: Portfolios
   
-- slug: ui-bootstrap
-  name: UI Bootstrap
+- slug: open-source
+  name: Open-source
   
-- slug: angularjs
-  name: AngularJS
-  
-- slug: javascript
-  name: Javascript
+- slug: curricula_vitae
+  name: Curricula Vitae
