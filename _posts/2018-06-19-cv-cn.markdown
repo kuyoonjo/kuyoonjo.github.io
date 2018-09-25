@@ -102,7 +102,7 @@ Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
 - 前端：
 Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
 
-#项目经验
+# 项目经验
 
 #### 烦人街 2016-10 至今
 [https://yu.chen.news/2018/09/25/frj.html](https://yu.chen.news/2018/09/25/frj.html)
