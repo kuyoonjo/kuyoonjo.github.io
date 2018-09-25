@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "个人简历"
-date:   2018-06-18 20:00:00
+date:   2018-09-25 16:40:00
 tags: [curricula_vitae]
 ---
 
@@ -102,3 +102,53 @@ Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
 - 前端：
 Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
 
+#项目经验
+
+#### 烦人街 2016-10 至今
+[https://yu.chen.news/2018/09/25/frj.html](https://yu.chen.news/2018/09/25/frj.html)
+
+##### 技术
+- Koa2, nodejs, C++
+- Mongodb, Redis
+- Ionic3, Angular2x, 
+- Android, Objective-C, Swift
+- 微信小程序
+- 阿里云OSS, 阿里云短信, 阿里云Quick BI
+- 移动推送, 第三方授权分享
+- 腾讯云点播, 腾讯小视频
+- Adobe Creative Cloud‎
+
+##### 职责
+- 全栈
+
+
+#### 米兜流量 2016-07 至 2018-04
+[https://yu.chen.news/2018/09/25/midoull.html](https://yu.chen.news/2018/09/25/midoull.html)
+
+##### 技术
+- Koa2, nodejs, C++
+- Mongodb, Redis
+- Ionic3, Angular2x, 
+- Android, Objective-C
+- 微信小程序
+- 微信公众号
+- 阿里云OSS, 阿里云短信, 阿里云负载均衡, 阿里云Quick BI
+- 移动推送, 第三方授权分享
+
+##### 职责
+- 全栈
+- 新人培训
+
+#### 核心运动 2016-07 至 2016-10
+[https://yu.chen.news/2018/09/25/hxyd.html](https://yu.chen.news/2018/09/25/hxyd.html)
+
+##### 技术
+- Koa2, nodejs, C++
+- Mongodb, Redis
+- Ionic3, Angular2x, 
+- Android, Objective-C
+- 阿里云OSS, 阿里云短信
+- 移动推送, 第三方授权分享
+
+##### 职责
+- 全栈
