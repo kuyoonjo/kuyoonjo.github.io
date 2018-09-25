@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "yc-server"
+date:   2018-09-25 16:40:00
+tags: [open-source]
+---
+
+<!--more-->
+
+# yc-server
+
+Simple restful framework using node and typescript
+
+## Core
+[https://github.com/yc-server/core](https://github.com/yc-server/core)
+
+## Starter
+[https://github.com/yc-server/base](https://github.com/yc-server/base)
+
+## CLI
+[https://github.com/yc-server/cli](https://github.com/yc-server/cli)
+
+## Plugins
+- [ycs-plugin-wechat-mp](https://github.com/yc-server/ycs-plugin-wechat-mp)
+- [ycs-plugin-wechat-mp-ticket](https://github.com/yc-server/ycs-plugin-wechat-mp-ticket)
+- [ycs-plugin-mosca](https://github.com/yc-server/ycs-plugin-mosca)
+- [ycs-plugin-alicloud-sms](https://github.com/yc-server/ycs-plugin-alicloud-sms)
+- [ycs-plugin-payments](https://github.com/yc-server/ycs-plugin-payments)
+- [ycs-plugin-alipay](https://github.com/yc-server/ycs-plugin-alipay)
+- [ycs-plugin-wechatpay](https://github.com/yc-server/ycs-plugin-wechatpay)
+- [ycs-plugin-rolesmanager](https://github.com/yc-server/ycs-plugin-rolesmanager)
