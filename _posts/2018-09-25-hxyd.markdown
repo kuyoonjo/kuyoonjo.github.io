@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "核心运动"
+date:   2018-09-25 15:50:00
+tags: [portfolios]
+---
+
+<!--more-->
+
+# 核心运动
+### 简介
+应用宝: [http://sj.qq.com/myapp/detail.htm?apkName=news.chen.yu.ionic](http://sj.qq.com/myapp/detail.htm?apkName=news.chen.yu.ionic)
+
+核心运动APP是以运动场馆线上预定为主的运动生活服务类APP，针对广大用户，提供便捷的运动场馆线上预定。同时用户还能在APP上晒图，分享运动时的矫健身影，结交各类喜爱运动的朋友！ 
+
+### 截图
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_42356513_1_1475911020/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_42356513_2_1475911020/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_42356513_3_1475911020/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_42356513_4_1475911020/550)

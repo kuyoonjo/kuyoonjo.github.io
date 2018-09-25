@@ -9,7 +9,7 @@ tags: [portfolios]
 
 # 米兜流量
 ### 简介
-应用宝: [http://sj.qq.com/myapp/detail.htm?apkName=com.midoull.mobile](http://sj.qq.com/myapp/detail.htm?apkName=com.yucen.fanrenjie)
+应用宝: [http://sj.qq.com/myapp/detail.htm?apkName=com.midoull.mobile](http://sj.qq.com/myapp/detail.htm?apkName=com.midoull.mobile)
 
 《米兜流量》是一款手机上充值流量的app，便捷式为你的流量充值，非常值得体验，易玩网提供米兜流量app，流量不够用？那就来易玩米兜流量app吧，优惠多多！
 
