@@ -19,8 +19,6 @@ tags: [open-source]
 - [cordova-plugin-um-share-weibo](https://github.com/yccp/cordova-plugin-um-share-weibo)
 - [cordova-plugin-um-share-wechat](https://github.com/yccp/cordova-plugin-um-share-wechat)
 - [cordova-plugin-alicloud-feedback](https://github.com/yccp/cordova-plugin-alicloud-feedback)
-
 - [cordova-plugin-amap-location](https://github.com/yccp/cordova-plugin-amap-location)
-
 - [cordova-plugin-kaer](https://github.com/yccp/cordova-plugin-kaer)
 
