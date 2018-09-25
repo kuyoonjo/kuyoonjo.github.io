@@ -152,3 +152,6 @@ Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信
 
 ##### 职责
 - 全栈
+
+#### 开源相关
+[https://yu.chen.news/tag/open-source/](https://yu.chen.news/tag/open-source/)
