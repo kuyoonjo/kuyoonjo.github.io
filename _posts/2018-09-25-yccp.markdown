@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Cordova plugins"
+date:   2018-09-25 17:00:00
+tags: [open-source]
+---
+
+<!--more-->
+
+# Cordova plugins
+
+- [cordova-plugin-qiyukf](https://github.com/yccp/cordova-plugin-qiyukf)
+- [cordova-plugin-payments-wechatpay](https://github.com/yccp/cordova-plugin-payments-wechatpay)
+- [cordova-plugin-payments-alipay](https://github.com/yccp/cordova-plugin-payments-alipay)
+- [cordova-plugin-payments-uniondocpay](https://github.com/yccp/cordova-plugin-payments-uniondocpay)
+- [cordova-plugin-um-common](https://github.com/yccp/cordova-plugin-um-common)
+- [cordova-plugin-um-share](https://github.com/yccp/cordova-plugin-um-share)
+- [cordova-plugin-um-share-qq](https://github.com/yccp/cordova-plugin-um-share-qq)
+- [cordova-plugin-um-share-weibo](https://github.com/yccp/cordova-plugin-um-share-weibo)
+- [cordova-plugin-um-share-wechat](https://github.com/yccp/cordova-plugin-um-share-wechat)
+- [cordova-plugin-alicloud-feedback](https://github.com/yccp/cordova-plugin-alicloud-feedback)
+
+- [cordova-plugin-amap-location](https://github.com/yccp/cordova-plugin-amap-location)
+
+- [cordova-plugin-kaer](https://github.com/yccp/cordova-plugin-kaer)
+
