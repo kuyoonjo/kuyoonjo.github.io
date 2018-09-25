@@ -134,6 +134,7 @@ Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信
 - 微信公众号
 - 阿里云OSS, 阿里云短信, 阿里云负载均衡, 阿里云Quick BI
 - 移动推送, 第三方授权分享
+- 身份证读卡器
 
 ##### 职责
 - 全栈
