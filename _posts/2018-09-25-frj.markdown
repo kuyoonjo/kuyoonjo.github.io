@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "烦人街"
+date:   2018-06-18 20:00:00
+tags: [portfolios]
+---
+
+<!--more-->
+
+# 烦人街
+### 简介
+应用宝: [http://sj.qq.com/myapp/detail.htm?apkName=com.yucen.fanrenjie](http://sj.qq.com/myapp/detail.htm?apkName=com.yucen.fanrenjie)
+
+为演出市场需求方和演艺人员搭建无缝隙信息桥梁，这里有全国各大城市的各类型的演出资源，演出公司，活动策划公司，为您的家庭聚会，生日派对，同学聚会，寿宴，百天喜宴，婚宴活动，以及商业演出包括，开业，奠基，促销，新品发布会，年会，酒会等活动提供演出服务，足不出户了解演员资讯，一键预定，演员即可到位。
+
+### 截图
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_52432990_1_1522125101/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_52432990_2_1522125101/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_52432990_3_1522125101/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_52432990_4_1522125101/550)
+
+![截图](https://pp.myapp.com/ma_pic2/0/shot_52432990_5_1522125101/550)
