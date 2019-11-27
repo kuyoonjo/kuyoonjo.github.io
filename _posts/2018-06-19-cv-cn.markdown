@@ -1,134 +1,204 @@
 ---
 layout: post
 title:  "个人简历"
-date:   2018-09-25 16:40:00
+date:   2019-11-27 17:00:00
 tags: [curricula_vitae]
 ---
 
 <!--more-->
+# 陈豫 
 
-# 职业意向
-#### 1. 外包项目合作
+- 5年经验 本科学历 
+- 在职 - 考虑机会
+- 17858478080
 
-期望项目类型：
-- Restful服务后台开发
-- 移动APP开发 (iOS, Android)
-- 微信公众号网站开发
-- 微信小程序/小游戏 开发
-- SDK/模块/插件 开发 (Nodejs with Typescript, Angular2+, Cordova, Swift, Objective-C, Android, Python, Perl, C/C++)
-- 自适应网站开发 (Angular2+)
-- 跨平台桌面应用开发 (electron)
+# 个人优势
+- 从高中开始学习编程，热爱编程。
 
-瀑布开发模式3331结算
-- 首付30%，合同签订后一周内
-- 开发完成测试版本上线付30%
-- 测试一个月后正式版本上线付30%
-- 正式版本上线6个月后付10%
+# 期望职位
+- Node.js（全栈）  40-70K  不限  深圳
+- C++  40-70K  不限  深圳
+- 架构师  40-70K  不限  深圳
 
-敏捷开发模式sprint结算
-- sprint周期为1个星期
-- 每个sprint开始时付30%
-- 每个sprint结束时付70%
+# 工作经历
+## 2018.10-至今
+**核芯互联（北京）科技有限公司深圳分公司**
+50-100人
+技术部 Node.js（全栈）
 
-#### 2. 高待遇固定工作
+### 内容
 
-期望工作地点：	温州 > 杭州 > 浙江周边
+- 服务器与硬件对接
+- 前后端开发指导
+- 技术方䅁可行性研究
+- 软件架构
+- 代码评审
+- CI/CD
+- 需求分解
+- 编写代码
+- 物联网全栈系统架构
 
-期望工作时间： 8hrs x 5
+## 2016.07-2018.04
+**新疆众佳时空网络科技有限公司**
+50-100人
+技术部 Node.js（全栈）
 
-期望过年假期： 15天
+### 内容
+- 软件框架
+- CI/CD
+- 需求分解
+- 任务分配
+- 代码审核
+- 编写代码
+- 新人培训
+- 全栈系统架构解决方案
 
-期望从事行业：	计算机软件
+## 2015.01-2016.05
+**自由工作者**
+- 网站建设
+- 微信公众号
+- 移动APP
+- 全栈移动开发Web前端
+### 涉及技术
+C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PHP, Perl, Python, Java, Applescript, Website Design, PSD to HTML, node.js, Mobile App Development, Android, MySQL, Database Programming, etc.
 
-期望月薪资（税后）：	20k+
+# 项目经历
+## 2019.03-至今
+**CLE 室内定位算法引擎**
+全栈工程师
 
-# 教育背景
-#### 1. 爱尔兰卡洛理工学院
-- 学习时间：	2011年9月 至 2015年9月
-- 专业名称：	软件开发
-- 学历/学位：	本科
-- 全日制统招：	是
+### 内容
+室内定位算法引擎
 
-#### 2. 洛阳解放军外国语学院
-- 学习时间：	2007年9月 至 2011年7月
-- 专业名称：	日语
-- 学历/学位：	本科
-- 全日制统招：	是
+### 功能
 
-# 工作经验
-#### 自由工作者
-工作时间：	2015年10月 至今
+- 定位算法
+- API 接口
 
-工作内容：	计算机软件编程
+### 技术
+
+- nodejs, C++
+- MQTT，COAP
+- 加密技术
+- 软件授权
+
+## 2019.03-至今
+**RTLS 室内定位**
+全栈工程师
+###内容
+室内定位。
+
+### 功能
+
+- 实时定位
+- 历史轨迹
+- 报警系统
+- 电子围栏
+- 数据分析
+- 自动考勤
+- 实例管理
+
+### 技术
+
+- Nodejs, koa2, C++,
+- Angular2+, threejs, WASM,
+- Docker, k8s, 阿里云 serverless,
+- Websocket, HTTP2, QUIC,
+
+## 2019.08-2019.11
+**CCS 核芯工作站**
+全栈工程师
+### 内容
+RTLS 室内定位项目的设计规划工具。
+
+### 功能
+
+- 地图配置
+- 基站配置
+- 算法配置
+- 信标校准
+- 项目管理
+
+### 技术
+
+- Electron, nodejs, C++
+- BLE, Wifi
+- 加密技术
+- 软件授权
+
+## 2018.11-2019.03
+**物联网设备管理平台**
+全栈工程师
+### 内容
+公司自产智能硬件云管理。
+
+### 功能
+- 远程配置
+- 实时监控
+- OTA升级
 
 
-#### 2016-4 至今
-主要与中国新疆两家互联网公司合作相关项目。
-- 新疆众佳时空网络科技有限公司
-- 上海雨岑信息科技有限公司（新疆分公司）
+### 技术
 
-并于2016-7至2018-4在新疆众佳时空网络科技有限公司挂职。
-
-工作内容：移动APP，微信公众号，微信小程序，服务端框架搭建，Cordova插件，第三方SDK包装等。
-
-涉及技术：
-- 后台：
-Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
-
-- 前端：
-Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
-
-#### 2015-10 至 2016-4
-主要在 [freelancer.com](https://www.freelancer.com) 投标项目。 相关的Reviews: [https://www.freelancer.com/u/kuyoonjo#/reviews](https://www.freelancer.com/u/kuyoonjo#/reviews)
-
-涉及技术：C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PHP, Perl, Python, Java, Applescript, Website Design, PSD to HTML, node.js, Mobile App Development, Android, MySQL, Database Programming, etc.
-
-#### 新疆众佳时空网络科技有限公司
-工作时间：	2016年7月 至 2018年4月
-
-公司规模：	50人至100人
-
-所属行业：	通信/电信（设备/运营/增值）
-
-职位名称：	技术总监
-
-职责描述：
-项目框架搭建。任务分配。业务对接。编写代码。	
-
-涉及技术：
-- 后台：
-Node.js, Typescript, Koa2, Mongodb, HTTP, Websocket, MQTT, 阿里云产品等。
-
-- 前端：
-Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信公众号，微信小程序等。
-
-# 项目经验
-
-#### 烦人街 2016-10 至今
-[https://yu.chen.news/2018/09/25/frj.html](https://yu.chen.news/2018/09/25/frj.html)
-
-##### 技术
 - Koa2, nodejs, C++
 - Mongodb, Redis
-- Ionic3, Angular2x, 
+- Angular2x,
+- MQTT，COAP
+
+## 2018.11-2019.02
+**智能伴热**
+全栈工程师
+
+### 内容
+油田油管温度智能安全监控。
+
+### 功能
+
+- 实时监控温度
+- 报警及通知
+- 远程控制
+
+技术
+
+- Koa2, nodejs, C++
+- Mongodb, Redis
+- Ionic, Angular2x,
+- MQTT，COAP
+
+
+## 2016.10-2018.09
+**烦人街**
+全栈工程师
+### 内容
+为演出市场需求方和演艺人员搭建无缝隙信息桥梁，这里有全国各大城市的各类型的演出资源，演出公司，活动策划公司，为您的家庭聚会，生日派对，同学聚会，寿宴，百天喜宴，婚宴活动，以及商业演出包括，开业，奠基，促销，新品发布会，年会，酒会等活动提供演出服务，足不出户了解演员资讯，一键预定，演员即可到位。
+
+
+### 技术
+
+- Koa2, nodejs, C++
+- Mongodb, Redis
+- Ionic3, Angular2x,
 - Android, Objective-C, Swift
 - 微信小程序
 - 阿里云OSS, 阿里云短信, 阿里云Quick BI
 - 移动推送, 第三方授权分享
 - 腾讯云点播, 腾讯小视频
 - Adobe Creative Cloud‎
+### 项目链接
+https://yu.chen.news/2018/09/25/frj.html
 
-##### 职责
-- 全栈
+## 2016.07-2018.01
+**米兜流量**
+全栈工程师
+### 内容
+米兜流量是融合了中国电信，中国联通，中国移动，三家运营商的流量充值平台。
 
 
-#### 米兜流量 2016-07 至 2018-04
-[https://yu.chen.news/2018/09/25/midoull.html](https://yu.chen.news/2018/09/25/midoull.html)
+### 技术
 
-##### 技术
 - Koa2, nodejs, C++
 - Mongodb, Redis
-- Ionic3, Angular2x, 
+- Ionic3, Angular2x,
 - Android, Objective-C
 - 微信小程序
 - 微信公众号
@@ -136,23 +206,39 @@ Ionic3, Angular4, SASS, Typescript, Android, Objective-C, Cordova, Zepto, 微信
 - 移动推送, 第三方授权分享
 - 身份证读卡器
 
-##### 职责
-- 全栈
-- 新人培训
+### 业绩
+微信公众号拥有50万＋新疆地区粉丝。
+### 项目链接
+https://yu.chen.news/2018/09/25/midoull.html
 
-#### 核心运动 2016-07 至 2016-10
-[https://yu.chen.news/2018/09/25/hxyd.html](https://yu.chen.news/2018/09/25/hxyd.html)
+## 2016.07-2016.10
+**核心运动**
+全栈工程师
 
-##### 技术
+### 内容
+核心运动APP是以运动场馆线上预定为主的运动生活服务类APP，针对广大用户，提供便捷的运动场馆线上预定。同时用户还能在APP上晒图，分享运动时的矫健身影，结交各类喜爱运动的朋友！
+
+
+### 技术
+
 - Koa2, nodejs, C++
 - Mongodb, Redis
-- Ionic3, Angular2x, 
+- Ionic3, Angular2x,
 - Android, Objective-C
 - 阿里云OSS, 阿里云短信
 - 移动推送, 第三方授权分享
+### 项目链接
+https://yu.chen.news/2018/09/25/hxyd.html
 
-##### 职责
-- 全栈
 
-#### 开源相关
+# 教育经历
+- 爱尔兰卡洛理工学院 2011-2015 软件工程本科
+- 解放军外国语学院 2007-2011 日语本科
+
+# 资格证书
+- 日语N1
+- 大学英语四级
+- 雅思6.5分
+
+# 开源相关
 [https://yu.chen.news/tag/open-source/](https://yu.chen.news/tag/open-source/)
