@@ -10,10 +10,84 @@ tags: [curricula_vitae]
 
 - 5年经验 本科学历 
 - 在职 - 考虑机会
-- 17858478080
+- +86 17858478080
 
 # 个人优势
-- 从高中开始学习编程，热爱编程。
+- 从高中开始学习编程，热爱编程。代码整洁美观，性能优化极致。
+
+# 技术掌握
+## 后台服务相关
+### 编码语言框架
+- Nodejs + Koa + Typescript
+- Nodejs + Express + Typescript（已多年没用）
+- Python + Django（已多年没用）
+- Modern C++（主要做 Nodejs 的 C++ Addons）
+
+### 数据库
+- Mongodb
+- MySQL / MsSQL / PostgreSQL（不常用）
+
+### 消息队列及缓存
+- RabbitMq（不常用）
+- Mosquito
+- Redis / Memcached
+
+### 通信
+- Websocket
+- UDP / TCP / HTTP / MQTT / COAP
+- Unix Pipe
+
+### 云计算相关
+- Docker
+- K8s
+- Serverless（阿里云）
+
+### 离线部署相关
+- Bytenode
+- Windows Services
+- Unix Services
+- 安装程序制作（MacOS, Linux, Windows）
+- 系统脚本（Bash, Winbat）
+
+### 其它
+- Nginx / Caddy
+- 数据加密（RSA, AES, etc.）
+
+## 客户端相关（Web, 微信小程序，移动APP）
+### 编码语言框架
+- HTML5 + CSS3 + JS + Angular2x
+- Cordova + Ionic3 移动APP
+- Cordova + Ionic4 移动APP
+- Electron + Angular2x 桌面应用
+- Java / Kotlin（主要做 Cordova 的 Android Addons）
+- Objective-C（主要做 Cordova 的 iOS Addons）
+- Swift MacOS 桌面应用（已多年没用）
+- C# .Net 桌面应用（已多年没用）
+- BASIC .Net 桌面应用（已多年没用）
+- Perl/Tk 桌面应用（已多年没用）
+
+### 通信
+- Websocket
+- UDP / TCP / HTTP / COAP
+- Bluetooth
+
+### 其它
+- 数据加密（RSA, AES, etc.）
+- 3d图像动画（Threejs）
+- Wasm
+
+## 协作及模块化相关
+- Jira
+- Git 工作流
+- NPM 包制作管理
+- Cordova 包制作管理
+- Gradle 包制作管理
+- Cocoapods 包制作管理
+- Conan 包使用管理
+
+## 自动化及测试相关
+- CI/CD（Bamboo, Travis CI, 阿里云 Code Pipeline）
+- 单元测试（Jest, Jasmine）
 
 # 期望职位
 - Node.js（全栈）  40-70K  不限  深圳
