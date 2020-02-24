@@ -19,16 +19,12 @@ tags: [curricula_vitae]
 ## 后台服务相关
 ### 编码语言框架
 - Nodejs + Koa + Typescript
-- Nodejs + Express + Typescript（已多年没用）
-- Python + Django（已多年没用）
 - Modern C++（主要做 Nodejs 的 C++ Addons）
 
 ### 数据库
 - Mongodb
-- MySQL / MsSQL / PostgreSQL（不常用）
 
 ### 消息队列及缓存
-- RabbitMq（不常用）
 - Mosquito
 - Redis / Memcached
 
@@ -61,10 +57,6 @@ tags: [curricula_vitae]
 - Electron + Angular2x 桌面应用
 - Java / Kotlin（主要做 Cordova 的 Android Addons）
 - Objective-C（主要做 Cordova 的 iOS Addons）
-- Swift MacOS 桌面应用（已多年没用）
-- C# .Net 桌面应用（已多年没用）
-- BASIC .Net 桌面应用（已多年没用）
-- Perl/Tk 桌面应用（已多年没用）
 
 ### 通信
 - Websocket
@@ -88,6 +80,15 @@ tags: [curricula_vitae]
 ## 自动化及测试相关
 - CI/CD（Bamboo, Travis CI, 阿里云 Code Pipeline）
 - 单元测试（Jest, Jasmine）
+## 其它不常用的
+- RabbitMQ
+- MySQL / MsSQL / PostgreSQL
+- Nodejs + Express + Typescript（已多年没用）
+- Python + Django（已多年没用）
+- Swift MacOS 桌面应用（已多年没用）
+- C# .Net 桌面应用（已多年没用）
+- BASIC .Net 桌面应用（已多年没用）
+- Perl/Tk 桌面应用（已多年没用）
 
 # 期望职位
 - Node.js（全栈）  40-70K  不限  深圳
@@ -188,6 +189,12 @@ C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PH
 - Docker, k8s, 阿里云 serverless,
 - Websocket, HTTP2, QUIC,
 
+### 工作内容
+- 软件框架搭建
+- CI/CD 搭建
+- 代码编写
+- 代码审核
+
 ## 2019.08-2019.11
 
 **CCS 核芯工作站**
@@ -211,6 +218,12 @@ RTLS 室内定位项目的设计规划工具。
 - BLE, Wifi
 - 加密技术
 - 软件授权
+
+### 工作内容
+- 软件框架搭建
+- CI/CD 搭建
+- 代码编写
+- 代码审核
 
 ## 2018.11-2019.03
 
@@ -251,13 +264,18 @@ RTLS 室内定位项目的设计规划工具。
 - 报警及通知
 - 远程控制
 
-技术
+### 技术
 
 - Koa2, nodejs, C++
 - Mongodb, Redis
 - Ionic, Angular2x,
 - MQTT，COAP
 
+### 工作内容
+- 软件框架搭建
+- CI/CD 搭建
+- 代码编写
+- 代码审核
 
 ## 2016.10-2018.09
 
@@ -281,6 +299,9 @@ RTLS 室内定位项目的设计规划工具。
 - 移动推送, 第三方授权分享
 - 腾讯云点播, 腾讯小视频
 - Adobe Creative Cloud‎
+
+### 工作内容
+- 全部
 
 ### 项目链接
 
@@ -312,6 +333,12 @@ https://yu.chen.news/2018/09/25/frj.html
 
 微信公众号拥有50万＋新疆地区粉丝。
 
+### 工作内容
+- 软件框架搭建
+- CI/CD 搭建
+- 代码编写
+- 代码审核
+
 ### 项目链接
 
 https://yu.chen.news/2018/09/25/midoull.html
@@ -334,6 +361,9 @@ https://yu.chen.news/2018/09/25/midoull.html
 - Android, Objective-C
 - 阿里云OSS, 阿里云短信
 - 移动推送, 第三方授权分享
+
+### 工作内容
+- 全部
 
 ### 项目链接
 
