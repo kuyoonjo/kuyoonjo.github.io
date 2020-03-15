@@ -163,6 +163,13 @@ C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PH
 - 加密技术
 - 软件授权
 
+### 详情
+
+- 规划制作算法服务与基站的交互的流程图，时序图。
+- C++ 算法的 Nodejs NAPI 的实现。
+- 软件授权实现及相关工具制作（License 方式）。
+- CI/CD。算法服务编码（Typescript），代码打包（Webpack），代码加密（Bytenode），程序安装包制作（Linux, MacOS, Windows）。
+
 ## 2019.03-至今
 
 **RTLS 室内定位**
@@ -195,6 +202,14 @@ C Programming, C++ Programming, Cocoa, Mac OS, Swift, Javascript, Angular.js, PH
 - 代码编写
 - 代码审核
 
+### 详情
+- 后台服务框架构建并与另一位后台开发成员对具体功能的实现。
+- Web 前端框架构建并与另两位前端开发成员对具体功能的实现。
+- 前后端通讯协议，方式的选型。
+- Dockerfile 的编写。
+- Bamboo 的脚本编写。
+- 无外网本地安装程序的实现。
+
 ## 2019.08-2019.11
 
 **CCS 核芯工作站**
@@ -215,6 +230,7 @@ RTLS 室内定位项目的设计规划工具。
 ### 技术
 
 - Electron, nodejs, C++
+- Ionic, Angular2x, Cordova, Kotlin
 - BLE, Wifi
 - 加密技术
 - 软件授权
@@ -224,6 +240,12 @@ RTLS 室内定位项目的设计规划工具。
 - CI/CD 搭建
 - 代码编写
 - 代码审核
+
+### 详情
+- 框架构建并与另两位前端开发成员对具体功能的实现。
+- 蓝牙设备相关模块的实现。
+- 基站 UDP 通讯相关模块的实现。
+- 信标模拟 APP 的实现（Android）。
 
 ## 2018.11-2019.03
 
@@ -247,6 +269,14 @@ RTLS 室内定位项目的设计规划工具。
 - Mongodb, Redis
 - Angular2x,
 - MQTT，COAP
+
+### 详情
+- 后台服务框架构建并与另一位后台开发成员对具体功能的实现。
+- Web 前端框架构建并与另两位前端开发成员对具体功能的实现。
+- 前后端通讯协议，方式的选型。
+- Dockerfile 的编写。
+- Bamboo 的脚本编写。
+- Kubernetes 排版（阿里云 Serverless）
 
 ## 2018.11-2019.02
 
@@ -276,6 +306,12 @@ RTLS 室内定位项目的设计规划工具。
 - CI/CD 搭建
 - 代码编写
 - 代码审核
+
+### 详情
+- 后台服务框架构建及具体功能的实现。
+- APP 的实现（Android, iOS）。
+- 与嵌入式工程师一起决定通讯协议和方式。
+- 硬件相关的自动化测试程序的实现。
 
 ## 2016.10-2018.09
 
